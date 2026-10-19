@@ -1,10 +1,10 @@
 # Installing Ubuntu Server 26.04.1 LTS
 
 **The server is installed with UEFI dual booting on a Dell Inspiron with the following hardware specs:**
-    - RAM: 32GB
-    - Storage: 512GB
-    - CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
-    - drive needed: None
+- RAM: 32GB
+- Storage: 512GB
+- CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+
 
 ## Downloading Ubuntu ISO from official Ubuntu website
 
